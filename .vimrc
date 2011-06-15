@@ -1,0 +1,11 @@
+color elflord
+set autoindent
+set smartindent
+set ruler
+set showmatch
+set incsearch
+set nocompatible
+syntax on
+set mouse=a
+set number
+set ignorecase
