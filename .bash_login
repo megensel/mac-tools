@@ -107,7 +107,7 @@ function parse_git_branch() {
 }
 
 
-PS1="\[$Green\]\u\[$Red\]@\[$Purple\]\h \[$Cyan\]\w\[$Red\]\$(parse_git_branch)\[$Color_Off \] \$ "
+PS1="\[$Green\]\u\[$Red\]@\[$Purple\]\h \[$Cyan\]\W\[$Red\]\$(parse_git_branch)\[$Color_Off \] \$ "
 
 
 
